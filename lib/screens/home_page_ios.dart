@@ -53,7 +53,7 @@ class _CupertinoHomeScreenState extends State<CupertinoHomeScreen> {
             ),
             BottomNavigationBarItem(
               activeIcon: Icon(CupertinoIcons.person_3_fill),
-              icon: Icon(CupertinoIcons.camera),
+              icon: Icon(CupertinoIcons.person_3_fill),
               label: 'Camera',
             ),
             BottomNavigationBarItem(
