@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-import '../../global.dart';
+import '../global.dart';
 
 class CupertinoCallsScreen extends StatefulWidget {
   const CupertinoCallsScreen({Key? key}) : super(key: key);

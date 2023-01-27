@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 
 
-import '../../global.dart';
+
+import '../global.dart';
 
 class StatusTabScreen extends StatefulWidget {
   const StatusTabScreen({Key? key}) : super(key: key);

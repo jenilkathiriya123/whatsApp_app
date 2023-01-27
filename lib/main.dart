@@ -1,10 +1,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:pr_what/screens/android_screens/chats_detail_page.dart';
-
-import 'global.dart';
-import 'home_page.dart';
-import 'home_page_ios.dart';
+import 'package:pr_what/screens/global.dart';
+import 'package:pr_what/screens/home_page.dart';
+import 'package:pr_what/screens/home_page_ios.dart';
 
 void main() {
   runApp(const MyApp());

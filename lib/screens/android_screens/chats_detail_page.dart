@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
-import '../../global.dart';
+import '../global.dart';
+
+
 
 class ChatsDetailsScreen extends StatefulWidget {
   const ChatsDetailsScreen({Key? key}) : super(key: key);

@@ -1,12 +1,12 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import '../main.dart';
 import 'global.dart';
-import 'main.dart';
-import 'screens/ios_screens/calls_page_ios.dart';
-import 'screens/ios_screens/camera_page_ios.dart';
-import 'screens/ios_screens/chats_page_ios.dart';
-import 'screens/ios_screens/settings_page_ios.dart';
-import 'screens/ios_screens/cupertino_status_screen.dart';
+import 'ios_screens/calls_page_ios.dart';
+import 'ios_screens/camera_page_ios.dart';
+import 'ios_screens/chats_page_ios.dart';
+import 'ios_screens/cupertino_status_screen.dart';
+import 'ios_screens/settings_page_ios.dart';
 
 class CupertinoHomeScreen extends StatefulWidget {
   const CupertinoHomeScreen({Key? key}) : super(key: key);

@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
+import '../main.dart';
+import 'android_screens/calls_page.dart';
+import 'android_screens/camera_page.dart';
+import 'android_screens/chats_page.dart';
+import 'android_screens/status_page.dart';
 import 'global.dart';
-import 'main.dart';
-import 'screens/android_screens/calls_page.dart';
-import 'screens/android_screens/camera_page.dart';
-import 'screens/android_screens/chats_page.dart';
-import 'screens/android_screens/status_page.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({Key? key}) : super(key: key);
